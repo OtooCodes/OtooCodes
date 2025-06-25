@@ -17,4 +17,4 @@ I thrive in **collaborative, fast-paced environments** and bring a strong mix of
 
 - 📍 Based in Ghana  
 - 📧 [otooakwasisamuel@gmail.com](otooakwasisamuel@gmail.com)  
-- 💼 [[LinkedIn](https://www.linkedin.com/in/samuel-otoo-627506336/)](https://www.linkedin.com/in/samuel-otoo-627506336/)
+- 💼 [https://www.linkedin.com/in/samuel-otoo-627506336/)](https://www.linkedin.com/in/samuel-otoo-627506336/)
