@@ -1,21 +1,20 @@
-# Samuel Otoo
+## 👋 About Me
 
-## About Me
+I’m a **results-driven Data Analyst** and **aspiring Data Scientist** with practical experience in data analysis, visualization, and technical support. My diverse background spans **FMCG, hospitality, academia, and research**, enabling me to draw meaningful insights from complex datasets to inform strategic decisions and enhance operational performance.
 
-I am an experienced professional with a diverse skill set in web development, WordPress, data analysis, graphic design, and video editing. I am passionate about creating seamless web experiences and designs that stand out.
+## 🛠 Skills & Tools
 
-## Skills
+- **Languages & Tools**: Python, SQL, Excel, Power BI, SPSS, Stata
+- **Data Analysis**: Data cleaning, transformation, statistical analysis
+- **Visualization**: Dashboards, reports, and visual storytelling for diverse audiences
+- **Communication**: Translating complex findings into clear, actionable insights
 
-- **Web Development**: Building and maintaining websites using modern technologies and best practices.
-- **WordPress**: Expertise in customizing and managing WordPress sites.
-- **Data Analysis**: Analyzing and interpreting data to drive decision-making and strategy.
-- **Graphic Design**: Designing visually appealing graphics for various platforms and media.
-- **Video Editing**: Editing and producing high-quality video content.
+## 💡 What Drives Me
 
-## Passion
+I thrive in **collaborative, fast-paced environments** and bring a strong mix of analytical thinking, curiosity, and problem-solving. I'm passionate about the **transformative power of data** and committed to leveraging it to drive innovation and real-world impact.
 
-My passion lies in blending technology with creativity to deliver exceptional web experiences and designs. I strive to stay updated with the latest trends and tools to ensure the best results for my clients and projects.
+## 📫 Let’s Connect
 
-## Contact
-
-Feel free to connect with me through [LinkedIn](#) or [Email](mailto:example@example.com).
+- 📍 Based in Ghana  
+- 📧 [example@example.com](mailto:example@example.com)  
+- 💼 [LinkedIn](#)
